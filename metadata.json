@@ -1,0 +1,8 @@
+{
+  "name": "Mukh-Lipi AI Form Assistant",
+  "description": "A voice-first AI assistant for illiterate and semi-literate users in India, helping them complete digital forms through simple Hindi conversation and document extraction.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
