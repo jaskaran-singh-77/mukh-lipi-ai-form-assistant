@@ -1,6 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+
 
 # Mukh-Lipi AI Form Assistant
 
@@ -103,6 +101,4 @@ A voice-first AI form assistant for India that helps users fill out forms using 
 
 This project is open source and available for use.
 
-## View on AI Studio
 
-Original AI Studio app: https://ai.studio/apps/drive/1k69CMIzdF47Jr98b1nYvO5ycxGvBqpVR
